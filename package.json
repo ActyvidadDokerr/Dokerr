@@ -1,0 +1,16 @@
+{
+  "name": "backendyoutube",
+  "version": "1.0.0",
+  "description": "Aplicacion para proveer videos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  
+  "author": "Juan Pablo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
